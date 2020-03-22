@@ -66,7 +66,7 @@ Once the file is created in the same path by the script, the user can navigate t
 ```
 Sample Snippet
 ```
-![Added the date to file](\Images\bkp_dt_added.JPG)
+![Added the date to file](/Images/bkp_dt_added.JPG)
 
 
 If the file exists and there is no date mentioned in the file, the script would fail prompting the user to mentiond the date in the file in YYYY-MM-DD format.
@@ -74,7 +74,7 @@ If the file exists and there is no date mentioned in the file, the script would 
 ```
 Sample Snippet
 ```
-![Added the date to file](\Images\no_date_bkp_date.JPG)
+![Added the date to file](/Images/no_date_bkp_date.JPG)
 
 
 These are a few pre-requisites for the execution of the script, once all of these are met the script begins it execution.
@@ -94,9 +94,9 @@ For the purpose of tracking the executions, each run of the script creates a log
 ```
 Sample Log Snippets
 ```
-![Log Snippet 1](\Images\Log_snip_1.JPG)
+![Log Snippet 1](/Images/Log_snip_1.JPG)
 
-![Log Snippet 1](\Images\Log_snip_2.JPG)
+![Log Snippet 1](/Images/Log_snip_2.JPG)
 
 
 
