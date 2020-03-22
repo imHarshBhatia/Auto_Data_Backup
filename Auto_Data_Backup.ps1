@@ -14,7 +14,6 @@ function Write-CustomLog{
 
 $popUpTrigger = New-Object -ComObject Wscript.shell
 
-$destinationPath = Read-Host("Enter target destination where backup should be taken(Drive:\Dir) or (Drive:\) ").Trim()
 $scanDirsLst = ".\Scan_dir.lst"
 $lastBkpDtIn = ".\Bkp_Date.txt"
 $logFilePath = ".\Logs"
@@ -60,6 +59,8 @@ elseif((Get-Item -Path $lastBkpDtIn).Length -eq 0){
 Write-CustomLog("Validatiion for scan_dirs.lst completed")
 
 Write-CustomLog("Execution pre-requisites satisfied")
+
+$destinationPath = Read-Host("Enter target destination where backup should be taken(Drive:\Dir) or (Drive:\) ").Trim()
 
 #Fetching the last Date Backup was performed
 $lastBkpDt = (Get-Content -Path $lastBkpDtIn).Trim()
