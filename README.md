@@ -32,7 +32,7 @@ Once the file is created in the same path by the script, the user can navigate t
 
 ```
 Sample snippet - 
-![Added directories to be scanned]("Images/added_scan_dirs - Copy.png")
+![Added directories to be scanned](Images/added_scan_dirs-Copy.png)
 ```
 
 *#### Scan_dir.lst exists but with no directories*
