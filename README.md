@@ -25,14 +25,14 @@ For the first time, the file can either be created by the user at the same path 
 #### *Scan_dir.lst does not exist*
 ```
 Sample snippet - 
-![Scan_dir.lst does not exist create one](Images\create_scan_file.JPG)
+![Scan_dir.lst does not exist create one](Images/create_scan_file.JPG)
 ```
 
 Once the file is created in the same path by the script, the user can navigate to the file and add the directories to be scanned for backup one in a line and save the file.
 
 ```
 Sample snippet - 
-![Added directories to be scanned](\Images\added_scan_dirs.JPG)
+![Added directories to be scanned]("Images/added_scan_dirs - Copy.png")
 ```
 
 *#### Scan_dir.lst exists but with no directories*
@@ -54,7 +54,7 @@ For the first time, the file can either be created by the user at the same path 
 
 ```
 Sample Snippet - 
-![Bkp_Date.txt does not exist](\Images\create_bkp_date.JPG)
+![Bkp_Date.txt does not exist](/Images/create_bkp_date.JPG)
 ```
 
 Once the file is created in the same path by the script, the user can navigate to the file and add the date(YYYY-MM-DD) from which the backup needs to be taken.
