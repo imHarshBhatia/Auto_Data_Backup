@@ -41,7 +41,7 @@ If there are no directories mentioned in the file, the script would fail prompti
 
 ```
 Sample Snippet -
-![No directory in scan file](\Images\no_dir_scan_file.JPG)
+![No directory in scan file](https://github.com/imHarshBhatia/Auto_Data_Backup/blob/bug/image-fix/Images/no_dir_scan_file.JPG)
 ```
 
 
