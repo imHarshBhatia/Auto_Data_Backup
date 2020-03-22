@@ -25,7 +25,7 @@ For the first time, the file can either be created by the user at the same path 
 *#### Scan_dir.lst does not exist*
 ```
 Sample snippet - 
-![Scan_dir.lst does not exist create one](\Images\create_scan_file.JPG)
+![Scan_dir.lst does not exist create one](Images\create_scan_file.JPG)
 ```
 
 Once the file is created in the same path by the script, the user can navigate to the file and add the directories to be scanned for backup one in a line and save the file.
