@@ -17,7 +17,7 @@ up.
 
 ## Understanding the core files
 
-**### Scan_dir.lst**
+### **Scan_dir.lst**
 As mentioned above, the Scan_dir.lst contains the lsit of directories that need to be scanned to pick up files to be backed up.
 
 For the first time, the file can either be created by the user at the same path where the **Auto_Data_Backup.ps1** file resides or the script can be executed by the user which will create the file and provide the necessary steps ahead.
