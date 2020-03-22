@@ -30,10 +30,8 @@ Sample snippet -
 
 Once the file is created in the same path by the script, the user can navigate to the file and add the directories to be scanned for backup one in a line and save the file.
 
-```
 Sample snippet - 
 ![Added directories to be scanned](Images/added_scan_dirs-Copy.png)
-```
 
 *#### Scan_dir.lst exists but with no directories*
 
