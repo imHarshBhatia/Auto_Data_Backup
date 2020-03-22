@@ -22,7 +22,7 @@ As mentioned above, the Scan_dir.lst contains the lsit of directories that need 
 
 For the first time, the file can either be created by the user at the same path where the **Auto_Data_Backup.ps1** file resides or the script can be executed by the user which will create the file and provide the necessary steps ahead.
 
-*#### Scan_dir.lst does not exist*
+#### *Scan_dir.lst does not exist*
 ```
 Sample snippet - 
 ![Scan_dir.lst does not exist create one](Images\create_scan_file.JPG)
