@@ -6,7 +6,9 @@ This script is a basic utility to automate the data backup process (generally to
 Read last backup date from Bkp_Date.txt --> Scan through the mentioned directories in Scan_dir.lst for the modified files post the last backup date --> Copy the files fetched to the specified target path.
 ```
 
-**Note: The script at present is limited to windows platform**
+**Note:**
+**1. The script at present is limited to windows platform**
+**2. The user needs to input the target path where the files should be copied to. Also, for paths with space like __Z:\Test Dir__ the paths should be entered as is and __not__ within quotes.
 
 ## Required Files
 
