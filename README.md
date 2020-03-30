@@ -7,7 +7,9 @@ Read last backup date from Bkp_Date.txt --> Scan through the mentioned directori
 ```
 
 **Note:**
+
 **1. The script at present is limited to windows platform**
+
 **2. The user needs to input the target path where the files should be copied to. Also, for paths with space like __Z:\Test Dir__ the paths should be entered as is and __not__ within quotes.**
 
 ## Required Files
